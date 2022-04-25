@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CityDelegate.qml</file>
+        <file>WeatherDelegate.qml</file>
+        <file>Cloud.png</file>
+        <file>Sun.jpg</file>
+        <file>Rain.jpg</file>
+        <file>Close.jfif</file>
+    </qresource>
+</RCC>
