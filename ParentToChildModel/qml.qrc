@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GrandFatherDelegate.qml</file>
+        <file>ChildDelegate.qml</file>
+        <file>FatherDelegate.qml</file>
+    </qresource>
+</RCC>
